@@ -10,11 +10,4 @@ FAQ Section: Provides answers to frequently asked questions.
 Technologies Used
 HTML5
 CSS3
-/netflix-clone
-│
-├── index.html          # Main HTML file
-├── netflix.css         # CSS file for styling
-└── /images
-    ├── logo.png        # Logo image
-    ├── down-icon.png   # Dropdown icon image
-    └── header-image.png # Background image (if needed)
+
